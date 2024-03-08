@@ -4,7 +4,7 @@ import os
 
 # Your OpenAI API key
 
-client = OpenAI(api_key='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')
+client = OpenAI()
 
 
 def get_player_input():
